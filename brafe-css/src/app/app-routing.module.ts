@@ -4,7 +4,7 @@ import { BrafeCssPuroComponent } from './pages/brafe-css-puro/brafe-css-puro.com
 
 const routes: Routes = [
   {
-    path: "",
+    path: "" ,
     component: BrafeCssPuroComponent
   }
 ];
